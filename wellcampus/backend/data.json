@@ -1,0 +1,251 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "title": "10 Min Morning Yoga",
+      "duration": "10:00",
+      "thumb": "bg-orange-100",
+      "videoId": "4pKly2JojMw"
+    },
+    {
+      "id": 2,
+      "title": "HIIT Cardio Blast",
+      "duration": "15:00",
+      "thumb": "bg-red-100",
+      "videoId": "ml6cT4AZdqI"
+    },
+    {
+      "id": 3,
+      "title": "Deep Focus Meditation",
+      "duration": "05:00",
+      "thumb": "bg-indigo-100",
+      "videoId": "inpok4MKVLM"
+    },
+    {
+      "id": 1775528560752,
+      "title": "About Food",
+      "duration": "5:00",
+      "thumb": "bg-blue-100",
+      "videoId": "xyQY8a-ng6g"
+    }
+  ],
+  "meals": [
+    {
+      "id": 1775531258830,
+      "type": "Veg",
+      "title": "Buddha Bowl with Hummus",
+      "cal": 420,
+      "tags": [
+        "AI Suggested",
+        "Fiber"
+      ]
+    },
+    {
+      "id": 1775531258831,
+      "type": "Non-Veg",
+      "title": "Teriyaki Chicken Rice",
+      "cal": 550,
+      "tags": [
+        "AI Suggested",
+        "Balanced"
+      ]
+    },
+    {
+      "id": 1775531258832,
+      "type": "Veg",
+      "title": "Dal Makhani & Jeera Rice",
+      "cal": 420,
+      "tags": [
+        "AI Suggested",
+        "Fiber"
+      ]
+    },
+    {
+      "id": 1775531258833,
+      "type": "Non-Veg",
+      "title": "Tandoori Chicken Wrap",
+      "cal": 450,
+      "tags": [
+        "AI Suggested",
+        "Protein"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "title": "Flu Shot Camp",
+      "category": "Health",
+      "startDate": "2023-11-20",
+      "endDate": "2023-11-22",
+      "time": "09:00 AM",
+      "location": "Health Centre, KL University, Green Fields, Vaddeswaram, Andhra Pradesh 522501",
+      "description": "Free flu shots available for all students. No appointment necessary."
+    },
+    {
+      "id": 2,
+      "title": "Mental Wellness Seminar",
+      "category": "Mindfulness",
+      "startDate": "2026-04-10",
+      "endDate": "",
+      "time": "02:00 PM",
+      "location": "Indoor Stadium, KL University, Green Fields, Vaddeswaram, Andhra Pradesh 522501",
+      "description": "Join us for an interactive seminar focused on mental wellness and overcoming exam stress."
+    },
+    {
+      "id": 3,
+      "title": "Yoga & Meditation Retreat",
+      "category": "Fitness",
+      "startDate": "2026-04-15",
+      "endDate": "2026-04-15",
+      "time": "06:00 AM",
+      "location": "Central Library, KL University, Green Fields, Vaddeswaram, Andhra Pradesh 522501",
+      "description": "A quiet morning for mindfulness and breathing exercises to recenter yourself."
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "tag": "Exam Stress",
+      "text": "Finals are coming up and I'm freaking out. Any tips?",
+      "likes": 12,
+      "comments": 4
+    },
+    {
+      "id": 2,
+      "tag": "Diet",
+      "text": "Found a great healthy option at the canteen today!",
+      "likes": 8,
+      "comments": 1
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "title": "Healthy Eating Guide",
+      "type": "Guide",
+      "content": "1. Eat more vegetables.\n2. Drink 3L water daily.\n3. Avoid processed sugars.\n4. Include protein in every meal."
+    },
+    {
+      "id": 2,
+      "title": "Home Workout Plan",
+      "type": "Plan",
+      "content": "Monday: Chest & Triceps\nTuesday: Back & Biceps\nWednesday: Legs & Shoulders\nThursday: Rest\nFriday: Full Body\nSaturday: Cardio"
+    }
+  ],
+  "registrations": [],
+  "userLogs": [
+    {
+      "id": 1775529765580,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "role": "student",
+      "time": "8:12:45 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775529477243,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "role": "student",
+      "time": "8:07:57 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775529304691,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "role": "student",
+      "time": "8:05:04 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775529099388,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "role": "student",
+      "time": "8:01:39 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775529073417,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "role": "student",
+      "time": "8:01:13 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775528625109,
+      "name": "sai",
+      "email": "lokeshsamudrala9@gmail.com",
+      "role": "student",
+      "time": "7:53:45 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775528578991,
+      "name": "Admin",
+      "email": "lokeshsamudrala@gmail.com",
+      "role": "student",
+      "time": "7:52:58 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775528482656,
+      "name": "Admin",
+      "email": "lokeshsamudrala@gmail.com",
+      "role": "admin",
+      "time": "7:51:22 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775528411061,
+      "name": "Admin",
+      "email": "lokeshsamudrala@gmail.com",
+      "role": "student",
+      "time": "7:50:11 AM",
+      "date": "4/7/2026",
+      "day": "Tuesday"
+    },
+    {
+      "id": 1775043107007,
+      "name": "Admin",
+      "email": "admin@university.edu",
+      "role": "admin",
+      "time": "5:01:47 PM",
+      "date": "4/1/2026",
+      "day": "Wednesday"
+    }
+  ],
+  "users": [
+    {
+      "id": 1775529073398,
+      "name": "Lokesh",
+      "email": "lokeshsamudrala999@gmail.com",
+      "password": "1234",
+      "role": "student",
+      "age": "30",
+      "phone": "9014301478",
+      "createdAt": "2026-04-07T02:31:13.398Z"
+    },
+    {
+      "id": 1775529152451,
+      "name": "Test User",
+      "email": "test@example.com",
+      "password": "password123",
+      "role": "student",
+      "age": "20",
+      "phone": "123456789",
+      "createdAt": "2026-04-07T02:32:32.451Z"
+    }
+  ]
+}
